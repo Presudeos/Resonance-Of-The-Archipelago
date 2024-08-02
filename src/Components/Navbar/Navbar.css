@@ -1,0 +1,20 @@
+
+
+.button {
+    height: 35px;
+    width: 70px;
+
+}
+
+
+.navbar-container {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000; 
+}
+
+.logos {
+    font-size: 22px;
+}
+
